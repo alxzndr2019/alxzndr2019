@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alxzndr2019
 - 👀 I’m interested in Full Stack web development
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on cool projects that matters
+- 💞️ I’m looking to collaborate on cool projects that matters and solve problems.
 - 📫 How to reach me: ohiozeomiunu@gmail.com
 
 <!---
