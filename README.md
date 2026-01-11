@@ -21,9 +21,9 @@ I love building things from scratch — from API-as-a-service platforms to intel
 ---
 
 ### 🧰 Tech Stack
-**Languages:** TypeScript, Go, Python  
+**Languages:** TypeScript, Go, Python, Java  
 **Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express.js, gRPC  
+**Backend:** Node.js, Express.js, Springboot, gRPC  
 **Infra:** AWS, Terraform, Docker, GitHub Actions  
 **Data:** Kafka, PostgreSQL, MongoDB, Redis  
 
