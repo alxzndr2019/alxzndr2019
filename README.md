@@ -4,7 +4,7 @@
 
 I’m a practical engineer passionate about designing and building **high-performance, distributed applications** — from modern frontend experiences to backend systems built for scale. My focus areas include:
 
-- 🧩 **Full Stack Development:** React, Next.js, Node.js, Go, TypeScript  
+- 🧩 **Full Stack Development:** React, Next.js, Node.js, Springboot, Go, TypeScript, Java  
 - ⚙️ **System Design & Infrastructure:** AWS (Lambda, EC2, S3), Terraform, Docker, CI/CD  
 - 📡 **Data & Event Streaming:** Kafka, Redis, Postgres, event-driven architecture  
 - 🧠 **AI & Automation:** Integrating LLMs into developer workflows and learning systems  
